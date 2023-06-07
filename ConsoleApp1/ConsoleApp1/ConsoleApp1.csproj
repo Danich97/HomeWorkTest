@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\prgrm\HomeWorkTest\HomeWork1\homeWork1.cs" Link="homeWork1.cs" />
-  </ItemGroup>
-
 </Project>
